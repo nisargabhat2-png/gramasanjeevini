@@ -1,0 +1,6 @@
+{
+  "name": "Grama-Sanjeevini",
+  "description": "A rural pharmacy network connecting village medical stores to ensure life-saving medicine accessibility and reduce wastage.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
